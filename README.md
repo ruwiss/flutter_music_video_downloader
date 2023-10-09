@@ -1,3 +1,9 @@
+https://github.com/ruwiss/flutter_music_video_downloader/assets/115001323/d25cc0b0-0be3-401d-a238-b9729177f9d1
+
+https://github.com/ruwiss/flutter_music_video_downloader/assets/115001323/0d9e13c9-e42d-462c-a1f9-fd32bbeb01e6
+
+
+
 Places that need to be changed:
 api > env.py: Replace api_key with your YouTube API key. If packages don't work, YouTube API will take effect.
 admin_panel > lib > utils > strings.dart: Change the url (api address) and pass variables.
