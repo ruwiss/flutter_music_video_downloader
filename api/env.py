@@ -30,8 +30,6 @@ def auto_complete_api(query):
     return f"https://suggestqueries.google.com/complete/search?hl=en&ds=yt&q={query}&output=firefox"
 
 
-deha_turkish_api = "https://deha.whiteboardstudio.net/static/songs.js"
-
 yt_dl_audio_settings = {
     "format": "bestaudio",
     "outtmpl": "%(id)s.%(ext)s",
