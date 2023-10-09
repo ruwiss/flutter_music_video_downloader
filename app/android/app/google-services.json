@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979254842282",
+    "project_id": "melotune-music-app",
+    "storage_bucket": "melotune-music-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979254842282:android:2e9edb5c38ed66fc4251d3",
+        "android_client_info": {
+          "package_name": "com.rw.melotune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979254842282-3llhq5dms4o9ndligiic9e04v68qag29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzKf4m6bcZy_e6ZyfKd5YdjgRDhhJHJpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979254842282-3llhq5dms4o9ndligiic9e04v68qag29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
