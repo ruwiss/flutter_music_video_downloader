@@ -3,7 +3,9 @@ https://github.com/ruwiss/flutter_music_video_downloader/assets/115001323/d25cc0
 https://github.com/ruwiss/flutter_music_video_downloader/assets/115001323/0d9e13c9-e42d-462c-a1f9-fd32bbeb01e6
 
 Değiştirilmesi gereken yerler
-
+api > env.py: api_key'i YouTube API anahtarınızla değiştirin. Paketler çalışmazsa YouTube API devreye girecektir. 
+admin_panel > lib > utils > strings.dart: URL'yi (api adresi) değiştirin ve değişkenleri iletin. 
+app > lib > utils > strings.dart: HOst (api adresi), intersititialAd1, intersititialAd2, bannerAd1 ve onesignalAppId'yi değiştirin.
 
 __
 
